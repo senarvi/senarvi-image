@@ -13,5 +13,5 @@ This project is open source and licensed under the Apache License, Version 2.0.
 Author
 ======
 
-Seppo Enarvi
+Seppo Enarvi  
 http://senarvi.github.io/
